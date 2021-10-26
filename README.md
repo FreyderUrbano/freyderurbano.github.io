@@ -1,2 +1,2 @@
-# FreyderUrbano.github.io
+# freyderurbano.github.io
 portafolio personal
